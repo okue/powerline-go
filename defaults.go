@@ -876,7 +876,7 @@ var themes = map[string]Theme{
 		PlEnvBg:            4,
 		TimeFg:             15,
 		TimeBg:             0,
-		ShellVarFg:         1,
+		ShellVarFg:         15,
 		ShellVarBg:         11,
 		NodeFg:             15,
 		NodeBg:             40,
