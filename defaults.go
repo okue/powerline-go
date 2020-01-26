@@ -849,7 +849,7 @@ var themes = map[string]Theme{
 		JobsFg:             4,
 		JobsBg:             0,
 		CmdPassedFg:        15,
-		CmdPassedBg:        0,
+		CmdPassedBg:        11,
 		CmdFailedFg:        15,
 		CmdFailedBg:        5,
 		SvnChangesFg:       2,
